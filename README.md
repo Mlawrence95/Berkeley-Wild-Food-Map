@@ -1,5 +1,5 @@
 # Berkeley Wild Food Map
-A fun interactive map made in Python visualizing the edible plants I find around town and campus. The dataset changes somewhat regularly, so too will the plot.
+A fun, interactive map made in Python visualizing the edible plants I find around town and campus. The dataset changes somewhat regularly.
 
 The plot was generated using Plotly + Mapbox, and has an interactive version located at: https://plot.ly/~mlawrence95/4
 
